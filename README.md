@@ -46,4 +46,4 @@ The AI Cost Optimization Advisor empowers enterprise users to:
 ## 🌐 Try It Live
 
 🔗 **Access the live agent here:**  
-[Launch on Lyzr Studio](https://studio.lyzr.ai/agent/68613f05656af689f82ff2de)
+[Launch on Lyzr Studio](https://studio.lyzr.ai/agent/68769d2f6cc2cda0d0a1a1a5/)

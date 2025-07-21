@@ -39,7 +39,7 @@ The AI Cost Optimization Advisor empowers enterprise users to:
 ## 🎥 Watch the Demo
 
 👀 **See the agent in action:**  
-▶️ [Watch Demo Video](https://youtu.be/gZwIt9dDjlw)
+▶️ [Watch Demo Video](https://youtu.be/RnKIn97L_f0)
 
 ---
 
